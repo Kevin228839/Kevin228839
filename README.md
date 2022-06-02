@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin
-- 👀 I’m interested in coding!
-- 🌱 I’m currently learning javascript and python
+- 👀 I’m a college student and I am interesting in coding and finance!
+- 🌱 I’m currently learning c++, javascript ,and python.
 - 💞️ I’m now studying in AppWorks School.
 
 <!---
